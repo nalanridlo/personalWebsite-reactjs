@@ -64,7 +64,7 @@ As a student at Universitas Brawijaya majoring in Informatics Engineering with a
           className="box"
           
         >
-          <img src="../../../public/about_photo.png" alt="" />
+          <img src="/about_photo.png" alt="" />
           
         </motion.div>
         
